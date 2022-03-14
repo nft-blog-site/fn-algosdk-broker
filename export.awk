@@ -1,0 +1,1 @@
+{ print "export * from \047" $1 "\047" }

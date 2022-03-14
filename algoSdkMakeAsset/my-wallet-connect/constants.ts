@@ -1,0 +1,1 @@
+export const MY_WALLET_CONNECT_METHOD = 'my-wallet-connect'
